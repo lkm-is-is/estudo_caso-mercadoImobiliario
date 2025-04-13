@@ -11,6 +11,7 @@ Essa amostra final segmentada foi utilizada para realizar testes de Regressão L
 
 **************
 **************
+
 RESULTADOS
 
 === DADOS LIMPOS ===

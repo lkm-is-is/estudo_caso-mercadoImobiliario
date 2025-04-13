@@ -1,0 +1,33 @@
+NOÇÕES PRELIMINARES
+
+
+
+Perfil dos Outliers de Preço por m²
+
+A análise dos imóveis com valores atípicos de preço por metro quadrado (outliers) revelou um conjunto com características bastante distintas do restante da amostra, indicando um possível padrão de imóveis de alto luxo ou localização extremamente valorizada.
+
+
+Comparando as médias entre os outliers e os demais imóveis, observam-se as seguintes diferenças:
+
+
+Valor total do imóvel: os outliers têm um valor médio 370% superior aos não-outliers (R$ 2.570.433 contra R$ 546.337), indicando imóveis de alto padrão.
+
+
+Área privativa: os imóveis outliers possuem em média 57,8% mais área (124,93 m² contra 79,16 m²), o que contribui para o alto valor, mas não o justifica integralmente — indicando também uma valorização concentrada no custo por metro quadrado.
+
+
+Infraestrutura interna:
+
+Garagem: +48,9% de vagas, com média próxima de 2 por imóvel.
+
+Banheiros: +50,7%, o que reforça o padrão mais elevado das unidades.
+
+Quartos: aumento modesto (+7,4%), sugerindo que a valorização não está ligada a um número significativamente maior de dormitórios.
+
+Suítes: ligeiramente mais frequentes (+5,5%), o que reforça, ainda que discretamente, o perfil de conforto.
+
+
+Valor do condomínio: os imóveis outliers pagam, em média, 80% a mais de condomínio, o que pode estar relacionado a localização nobre, edifícios com serviços premium ou maior estrutura de lazer e segurança.
+
+
+Esses dados sugerem que os outliers de preço por m² não são meros erros ou distorções, mas refletem um subconjunto de imóveis diferenciados em regiões com forte valorização imobiliária.
